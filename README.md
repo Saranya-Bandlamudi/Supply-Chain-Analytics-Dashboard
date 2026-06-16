@@ -2,7 +2,7 @@
 
 > End-to-End Data Analytics Project using Python, SQL, Excel and Google Looker Studio
 
-![Dashboard Preview](images/dashboard.png)
+
 
 ---
 
