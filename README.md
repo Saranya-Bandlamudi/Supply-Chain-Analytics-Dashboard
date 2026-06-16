@@ -68,7 +68,8 @@ This dashboard provides actionable insights to support data-driven decisions.
 
 # 📈 Revenue by Product Category
 
-![Revenue by Product](images/revenue_by_product.png)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5cf70ff8-35ca-42c2-a10d-c4db968965c6" />
+
 
 ### Insight
 
