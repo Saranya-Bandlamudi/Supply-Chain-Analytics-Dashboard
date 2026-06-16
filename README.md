@@ -81,7 +81,8 @@ This dashboard provides actionable insights to support data-driven decisions.
 
 # 🌎 Revenue by Location
 
-![Revenue by Location](images/revenue_by_location.png)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/82fb449d-74e5-440e-bcc5-9b52945288d6" />
+
 
 ### Insight
 
@@ -93,7 +94,7 @@ This dashboard provides actionable insights to support data-driven decisions.
 
 # 🥧 Product Sales Distribution
 
-![Product Sales Distribution](images/product_sales_distribution.png)
+
 
 ### Insight
 
