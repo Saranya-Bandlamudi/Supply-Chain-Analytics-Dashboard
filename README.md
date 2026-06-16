@@ -60,6 +60,7 @@ This dashboard provides actionable insights to support data-driven decisions.
 # 📊 Dashboard Preview
 
 ## Executive Dashboard
+<img width="752" height="563" alt="image" src="https://github.com/user-attachments/assets/10aae3a2-23ad-4d98-a909-bba446cde60a" />
 
 
 
