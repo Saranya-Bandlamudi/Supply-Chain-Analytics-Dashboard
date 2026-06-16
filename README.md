@@ -61,7 +61,7 @@ This dashboard provides actionable insights to support data-driven decisions.
 
 ## Executive Dashboard
 
-![Dashboard](images/dashboard.png)
+
 
 ---
 
