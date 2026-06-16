@@ -1,7 +1,11 @@
 # 📦 Supply Chain Analytics Dashboard
 
 > End-to-End Data Analytics Project using Python, SQL, Excel and Google Looker Studio
-<img width="752" height="563" alt="image" src="https://github.com/user-attachments/assets/a87a4619-6365-4f8e-9e71-1989001395be" />
+
+## Live Dashboard
+🔗 Google Looker Studio Dashboard:
+
+https://datastudio.google.com/reporting/723ecf58-2267-4668-a23e-fe78474905e2
 
 
 
