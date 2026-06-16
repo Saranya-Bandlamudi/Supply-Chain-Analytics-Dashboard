@@ -94,6 +94,7 @@ This dashboard provides actionable insights to support data-driven decisions.
 
 # 🥧 Product Sales Distribution
 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2281d9de-fc6b-4fe6-92fe-ad9095efdbed" />
 
 
 ### Insight
@@ -105,7 +106,7 @@ This dashboard provides actionable insights to support data-driven decisions.
 
 # 🏆 Top Supplier Performance
 
-![Top Supplier Performance](images/top_supplier_performance.png)
+
 
 ### Insight
 
