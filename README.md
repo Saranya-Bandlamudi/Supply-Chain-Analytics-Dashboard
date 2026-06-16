@@ -106,6 +106,7 @@ This dashboard provides actionable insights to support data-driven decisions.
 
 # 🏆 Top Supplier Performance
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c4fbc4dc-f1b6-4759-a5ae-b679ecaf8997" />
 
 
 ### Insight
@@ -189,6 +190,6 @@ Aspiring Data Analyst
 
 📂 GitHub: https://github.com/Saranya-Bandlamudi
 
----
+Gmail: saranyabandlamudi7@gamil.com
 
 ⭐ If you found this project interesting, consider giving it a star.
