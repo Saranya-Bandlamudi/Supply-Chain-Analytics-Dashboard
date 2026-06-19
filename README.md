@@ -188,7 +188,9 @@ Supply-Chain-Analytics-Dashboard
 
 **Saranya Bandlamudi**
 
-Aspiring Data Analyst
+Data Analyst
+
+Power BI | SQL | Python | Excel 
 
 📧 LinkedIn: https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
